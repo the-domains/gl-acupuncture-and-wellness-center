@@ -1,4 +1,3 @@
-layout_spectrum: 0.05507094692438841
 typography_spectrum: 0.12381863640621305
 color:
   brandStrength: 0.30612036772072315
@@ -6,9 +5,11 @@ color:
   saturation: 0.5637708250433207
   rhythmicContrast: 0.7469001566059887
   brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.05507094692438841
 name: G&L Acupuncture and Wellness Center
+description: Professional Holistic Healthcare
